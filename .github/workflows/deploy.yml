@@ -23,7 +23,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-              - name: Setup Pages
+      - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Setup Node.js
